@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingMinor", "ThreadingMinor\ThreadingMinor.csproj", "{9B1919FD-438E-4EA9-AEA1-6E9AC2484F9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication1", "WpfApplication1\WpfApplication1.csproj", "{5D6F979D-59CC-4BDD-88B8-FDA6C2379561}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B1919FD-438E-4EA9-AEA1-6E9AC2484F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1919FD-438E-4EA9-AEA1-6E9AC2484F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1919FD-438E-4EA9-AEA1-6E9AC2484F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1919FD-438E-4EA9-AEA1-6E9AC2484F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D6F979D-59CC-4BDD-88B8-FDA6C2379561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6F979D-59CC-4BDD-88B8-FDA6C2379561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6F979D-59CC-4BDD-88B8-FDA6C2379561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6F979D-59CC-4BDD-88B8-FDA6C2379561}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
