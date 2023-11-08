@@ -5,7 +5,8 @@ using ThreadingMinor;
 // BasicThreads.Go();
 // RaceConditions.Go();
 // SemaphoreDemo.Go();
-WaitHandleDemo.Go();
+// WaitHandleDemo.Go();
+ReaderWriterLockDemo.Go();
 
 // Semap
 
